@@ -1,0 +1,5 @@
+<import src="../../_templates/demo-template.wxml" />
+
+<template is="demo-template" />
+
+<demo-component />
