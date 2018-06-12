@@ -4,7 +4,7 @@ const { copys } = require('./config')
 
 function genCopyDirs(app) {
   let r = []
-  copys.map(m => r.push(`${app}/${m}`))
+  copys.map(m => r.push(`${app}/_${m}`))
   return r
 }
 
