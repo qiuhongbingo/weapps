@@ -19,6 +19,6 @@
     "file-loader": "^1.1.9",
     "husky": "^0.14.3",
     "rimraf": "^2.6.2",
-    "webpack": "^3.11.0"
+    "webpack": "^5.75.0"
   }
 }
